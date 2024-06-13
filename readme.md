@@ -23,3 +23,7 @@ Headline Generation
 ## lab 6
 
 Graph Anomaly Detection
+
+## Final
+
+Multi-modal for News Popularity Prediction
