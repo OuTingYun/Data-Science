@@ -5,13 +5,21 @@ In this part, we have two parts of works:
 2. Popularity Predictor for PPT
 
 ## lab2
+
 Model Compression
 
 ## lab3 
+
 Few-Shot Learning
 
 ## lab4
+
 Crowd Estimation
 
 ## lab 5
+
 Headline Generation
+
+## lab 6
+
+Graph Anomaly Detection
